@@ -21,7 +21,7 @@ type cuadrado struct{
 
  //funcion para calcular el area del cuadrado
  //la funcion se le pasa un parametro "s" de tipo cuadro
- //y regresara el area de la interface que es de tipo float
+ //y regresara el area de la interface que es de tipo float 
  func (s cuadrado) area() float64  {
    return s.ancho * s.alto
  }
