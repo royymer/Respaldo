@@ -1,2 +1,2 @@
 # Respaldo
-Respaldo de todo código que escribo
+Respaldo de todo código en Go que escribo
