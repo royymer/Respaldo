@@ -1,7 +1,0 @@
-package main
-
-import "fmt"
-
-func mai()  {
-  fmt.Println("buenos dias")
-}
