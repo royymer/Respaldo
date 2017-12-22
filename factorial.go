@@ -8,7 +8,7 @@ func factorial(n int) int  {
   }
   return n * factorial(n - 1) //si es distinto de 0 ejecuta la funcion de factorial
 }
-
+ //nueva modificacion
 func main()  {
   fmt.Println(factorial(5)) //imprime el factorial de 5
 }
